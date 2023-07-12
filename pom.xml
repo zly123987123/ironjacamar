@@ -68,7 +68,7 @@
 
     <properties>
 	    <ironjacamar.groupId>${project.groupId}</ironjacamar.groupId>
-	    <ironjacamar.version>${project.version}</ironjacamar.version>
+	    <ironjacamar.version>1.5.13.Final</ironjacamar.version>
 
         <version.com.github.fungal>0.11.0.Final</version.com.github.fungal>
         <version.com.h2database>1.3.173</version.com.h2database>
